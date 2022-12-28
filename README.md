@@ -1,9 +1,9 @@
 
 <p align="center">
-<img align="center" alt="Drum Machine" width="400px" src="./assets/hello.jpg">
+<img align="center" alt="Drum Machine" width="700px" src="./assets/hello.jpg">
 <h1 align="center">Hello! I'm Idan 🐋 ✨ </h1>
 
-I'm a full-stack developer with substantial background in **C**, **Java**, **JavaScript** and **full-stack technologies** (list below). Boasting deep familiarity with OOP principles and some sweet projects to my name. 
+I'm a **full-stack developer** with substantial background in **C**, **Java**, **JavaScript** and various full-stack technologies (list below). Boasting deep familiarity with OOP principles and some sweet projects to my name. 
 
 _Fun fact_: I am also an **English-language expert** (with an M.A. in English), as well as a **singer and musician**.
 
@@ -19,8 +19,12 @@ _Fun fact_: I am also an **English-language expert** (with an M.A. in English), 
 
 <h2 align="center"><u>Some of My Projects</u></h2>
 
-<img align="center" alt="Drum Machine" width="400px" src="./assets/quizzical.jpg">
+<div align="center">
+
 <h3>❓ Quizzical: A Trivia App</h3>
+
+<img align="center" alt="Quizzical" width="400px" src="./assets/quizzical.jpg"><br/>
+
 Built in React.js, with selectable category and difficulty level. Many minutes of fun!
 <br/>
 
@@ -32,10 +36,10 @@ Built in React.js, with selectable category and difficulty level. Many minutes o
 
 <h3>🥁 The Ding-a-Ling 3000 Drum Machine</h3>
 
-<img align="center" alt="Drum Machine" width="400px" src="./assets/drumMachineScreenshot.jpg">
+<img align="center" alt="Drum Machine" width="400px" src="./assets/drumMachineScreenshot.jpg"><br/>
 
 The Ding-a-ling 3000 is a web-based drum machine. Jam alone or with your friends!<br/> 
-**--> Added MIDI support on Google Chrome!**<br/> 
+--> **Added MIDI support on Google Chrome!** <--<br/> 
 Built in Javascript (ES6).
 
 [Live Demo!](https://idanldrummachine.netlify.app/)<br/>
@@ -45,7 +49,7 @@ Built in Javascript (ES6).
 
 <h3>👓 Markdown Previewer</h3>
 
-<img align="center" alt="MD Previewer" width="300px" src="./assets/mdPreviewerScreenshot.jpg">
+<img align="center" alt="MD Previewer" width="300px" src="./assets/mdPreviewerScreenshot.jpg"><br/>
 A live preview of your markdown code! 
 
 [Live Demo!](https://idanlmdpreview.netlify.app/)<br/>
@@ -58,7 +62,7 @@ A live preview of your markdown code!
 
 <h3>⏰ Customizable Pomodoro Timer</h3>
 
-<img align="center" alt="Pomodoro Timer" width="300px" src="./assets/pomodoroTimerScreenshot.jpg">
+<img align="center" alt="Pomodoro Timer" width="300px" src="./assets/pomodoroTimerScreenshot.jpg"><br/>
 A productivity tool: A customizable, alternating work-break timer.
 
 [Live Demo!](https://idanlpomodorotimer.netlify.app/)<br/>
@@ -70,7 +74,7 @@ A productivity tool: A customizable, alternating work-break timer.
 
 <h3>📚 Random Quote Machine</h3>
 
-<img align="center" alt="Pomodoro Timer" width="400px" src="./assets/quote_machine_screenshot.jpg">
+<img align="center" alt="Pomodoro Timer" width="400px" src="./assets/quote_machine_screenshot.jpg"> <br/>
 A randomized piece of wisdom from access time and space. Built with React.js. 
 
 [Live Demo!](https://idanlrandomquotegen.netlify.app/)<br/>
@@ -80,7 +84,6 @@ A randomized piece of wisdom from access time and space. Built with React.js.
 ---------
 <h3>🔧 Node.js/ Express.js Projects</h3>
 
-<!-- <img align="center" alt="Pomodoro Timer" width="400px" src="./assets/pomodoroTimerScreenshot.jpg"> -->
 Various node.js projects - services for the rest of us! 
 
 1. <h4>URL Shortener</h4>
@@ -97,7 +100,7 @@ Various node.js projects - services for the rest of us!
 
     [Repo here](https://github.com/IdanLib/request-head-parser)<br/>
 
-
+</div>
 
 ### Languages and Tools
 
@@ -105,9 +108,8 @@ Various node.js projects - services for the rest of us!
 <img align="left" alt="Java" width="26px" title="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
 <img align="left" alt="JavaScript" width="26px" title="Javascript ES6" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> 
 <img align="left" alt="NodeJS" width="26px" title="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/nodedotjs.svg" />
-<img align="left" alt="ExpressJs" width="26px" title="Express.js" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/nodedotjs.svg" />
+<img align="left" alt="ExpressJs" width="26px" title="Express.js" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/express.svg" />
 <img align="left" alt="MongoDB" width="26px" title="MongoDb" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/mongodb.svg" />
-<img align="left" alt="HTML5" width="26px" title="HTML" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/express.svg" />
 <img align="left" alt="CSS3" width="26px" title="CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="Bootstrap" width="26px" title="Bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" alt="React" width="26px" title="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
