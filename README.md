@@ -40,10 +40,11 @@ Built in React.js, with selectable category and difficulty level. Many minutes o
 
 The Ding-a-ling 3000 is a web-based drum machine. Jam alone or with your friends!<br/> 
 --> **Added MIDI support on Google Chrome!** <--<br/> 
-Built in Javascript (ES6).
+Built in React.js with Vite.
 
-[Live Demo!](https://idanldrummachine.netlify.app/)<br/>
-[Repo here](https://github.com/IdanLib/drum-machine/)<br/>
+[Live Demo!](https://idanldrummachine2.netlify.app/)<br/>
+[Repo here](https://github.com/IdanLib/drum-machine-react)<br/>
+ 
 
 ----------------
 
