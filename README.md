@@ -3,19 +3,19 @@
 <img align="center" alt="Drum Machine" width="700px" src="./assets/hello.jpg">
 <h1 align="center">Hello! I'm Idan 🐋 ✨ </h1>
 
-I'm a **full-stack developer** with substantial background in **C**, **Java**, **JavaScript** and various full-stack technologies (list below). Boasting deep familiarity with OOP principles and some sweet projects to my name. 
+I'm a **full-stack/ Java developer** with substantial background in **C** and various full-stack technologies (list below). Boasting deep familiarity with OOP principles and some sweet projects to my name. 
 
 _Fun fact_: I am also an **English-language expert** (with an M.A. in English), as well as a **singer and musician**.
 
 
 - 🖥 ️A **Full-Stack developer** in **Javascript**, **React**, **Bootstrap**, and other tools.
-- 🍎 **Object-Oriented Programming** and **Java**. 
+- 🍎 A **Java developer**.
 - ©️ Experience (and much love for) **C**.
 - 🤖 **Data structures and algorithms** - Nothing works without them!
 - 🔤 An **English-Language Expert**, with a **Master's Degree** in English and American Studies.
 - 🎙️ A **musician**, **songwriter**, and **singer.** 
 - 🔍 I’m looking to collaborate on front-end development, music technology, and contribute to open source projects.
-- 💬 Ask me about Front-End Development, music technology, anything cool 
+- 💬 Ask me about Full-Stack Development, Java, C, music and music technology, and anything cool. 
 
 <h2 align="center"><u>Some of My Projects</u></h2>
 
