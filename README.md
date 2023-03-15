@@ -2,20 +2,25 @@
 <img align="center" alt="Drum Machine" width="700px" src="./assets/hello.jpg">
 <h1 align="center">Hello! I'm Idan 🐋 ✨ </h1>
 
-I'm a **full-stack developer** with substantial background in **C**, **Java**, **JavaScript** and various full-stack technologies (list below). Boasting deep familiarity with OOP principles and some sweet projects to my name.
+I'm a **full-stack developer** with knowledge and experience inin **C**, **Java**, and the extended **JavaScript** family (list below).
+
+I write clean, clear, maintainable code that asheres to SOLID principles wherever possible.
+
+I am creative, quick, and independent - and I bring TONS of added value just waiting to be harnassed.
+
+### Tech Skills
+
+[![Tech Skills](https://skillicons.dev/icons?i=c,java,spring,linux,bash,rust,js,ts,html,css,react,redux,vite,tailwind,mui,nodejs,express,mongo,postgres,git,github&perline=7)](https://skillicons.dev)
+
+## Fun Fact
+
+I am also an **English-Language Expert** (M.A. in English from Tel-Aviv University), a singer and musician.
+
+This varied background means I have many(!) transferrable, cross-domain skills that would benefit any organization.
 
 ### Added-Value Skills and Tools
 
 [![Added-Value Skills](https://skillicons.dev/icons?i=ableton,ps,pr,figma&erline=7)](https://skillicons.dev)
-
-- 🖥 ️A **Full-Stack developer** in **Javascript**, **React**, **Bootstrap**, and other tools.
-- 🍎 **Object-Oriented Programming** and **Java**.
-- ©️ Experience (and much love for) **C**.
-- 🤖 **Data structures and algorithms** - Nothing works without them!
-- 🔤 An **English-Language Expert**, with a **Master's Degree** in English and American Studies.
-- 🎙️ A **musician**, **songwriter**, and **singer.**
-- 🔍 I’m looking to collaborate on front-end development, music technology, and contribute to open source projects.
-- 💬 Ask me about Front-End Development, music technology, anything cool
 
 <h2 align="center"><u>Some of My Projects</u></h2>
 
