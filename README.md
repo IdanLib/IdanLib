@@ -4,9 +4,9 @@
 
 I'm a **full-stack developer** with knowledge and experience inin **C**, **Java**, and the extended **JavaScript** family (list below).
 
-I write clean, clear, maintainable code that asheres to SOLID principles wherever possible.
+I write clean, clear, maintainable code that adheres to SOLID principles wherever possible.
 
-I am creative, quick, and independent - and I bring TONS of added value just waiting to be harnassed.
+I am creative, quick, and independent - and I bring TONS of added value just is waiting to be harnassed towards a greater good.
 
 ### Tech Skills
 
