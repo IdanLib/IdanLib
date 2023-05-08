@@ -8,9 +8,14 @@ I write clean, clear, maintainable code that adheres to SOLID principles whereve
 
 I am creative, quick, and independent - and I bring TONS of added value just is waiting to be harnassed towards a greater good.
 
+### **Collaborator:** 
+[The Rust Programming Language - Hebrew Edition!](https://github.com/IttayWeiss/rustbook-heb)<br />
+
+[![Idan's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanLib&hide=stars&show_icons=true&theme=onedark&count_private=true)](https://github.com/idanlib)
+
 ### Tech Skills
 
-[![Tech Skills](https://skillicons.dev/icons?i=c,java,spring,linux,bash,rust,js,ts,html,css,react,redux,vite,tailwind,mui,nodejs,express,mongo,postgres,git,github&perline=7)](https://skillicons.dev)
+[![Tech Skills](https://skillicons.dev/icons?i=c,java,spring,linux,bash,rust,js,ts,html,css,react,redux,vite,tailwind,mui,nodejs,express,mongo,mysql,git,github&perline=8)](https://skillicons.dev)
 
 ## Fun Fact
 
