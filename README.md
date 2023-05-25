@@ -15,7 +15,7 @@ I am creative, quick, and independent - and I bring TONS of added value just is 
 
 ### Tech Skills
 
-[![Tech Skills](https://skillicons.dev/icons?i=c,java,spring,linux,bash,rust,js,ts,html,css,react,redux,vite,tailwind,mui,nodejs,express,mongo,mysql,git,github&perline=8)](https://skillicons.dev)
+[![Tech Skills](https://skillicons.dev/icons?i=c,java,spring,linux,bash,rust,js,ts,html,css,react,next,redux,vite,tailwind,mui,nodejs,express,mongo,mysql,git,github&perline=8)](https://skillicons.dev)
 
 ## Fun Fact
 
