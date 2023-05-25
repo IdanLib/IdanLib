@@ -2,7 +2,7 @@
 <img align="center" alt="Drum Machine" width="700px" src="./assets/hello.jpg">
 <h1 align="center">Hello! I'm Idan 🐋 ✨ </h1>
 
-I'm a **full-stack developer** with knowledge and experience inin **C**, **Java**, and the extended **JavaScript** family (list below).
+I'm a **full-stack developer** with knowledge and experience in **C**, **Java**, extended **JavaScript/TypeScript** family (list below).
 
 I write clean, clear, maintainable code that adheres to SOLID principles wherever possible.
 
